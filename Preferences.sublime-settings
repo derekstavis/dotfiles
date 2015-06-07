@@ -8,5 +8,8 @@
 	"rulers": [80],
 	"theme": "Soda SolarizedDark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false
+	"word_wrap": false,
+	
+	// SublimePythonIDE
+	"pep8_ignore": ["E201", "E202", "E203", "E221"]
 }
